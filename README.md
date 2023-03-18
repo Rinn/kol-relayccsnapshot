@@ -3,6 +3,6 @@ Shows your CheeseCookie snapshot in the relay browser. See [this thread](http://
 
 No longer maintained.
 
-`svn checkout Rinn/kol-relayccsnapshot`
+`git checkout Rinn/kol-relayccsnapshot`
 
 [My Snapshot](https://cheesellc.com/kol/profile.php?u=epicgamer)
